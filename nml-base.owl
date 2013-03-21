@@ -15,7 +15,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:nml="http://schemas.ogf.org/nml/base/2013/02#"
-	 xmlns:base="http://schemas.ogf.org/nml/base/2013/02#"
+     xmlns:base="http://schemas.ogf.org/nml/base/2013/02#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <Ontology rdf:about="http://schemas.ogf.org/nml/base/2013/02/"/>
     
